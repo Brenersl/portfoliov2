@@ -76,19 +76,19 @@ const experiences: ExperienceItem[] = [
     skills: ["UX Design", "UI Design", "Figma", "Wireframes", "Protótipos"],
     images: [
       {
-        url: "https://www.brenersilva.com.br/assets/img/Curso%20para%20Gestantes%20-%20Copia.png",
+        url: "https://i.ibb.co/GQ7tdQNr/Mac-Book-13-2.png",
         title: "Plataforma Colina Tech",
         description: "Design de plataforma web para gestantes",
       },
       {
-        url: "https://www.brenersilva.com.br/assets/img/Curso%20para%20Gestantes.png",
-        title: "Interface do Curso",
-        description: "Layout de curso interativo",
+        url: "https://i.ibb.co/DHKwLTXp/Silver.png",
+        title: "Blog de Entrevistas",
+        description: "Layout do blog interativo",
       },
       {
-        url: "https://www.brenersilva.com.br/assets/img/Cadastro%20de%20fornecedores.png",
-        title: "Cadastro de Fornecedores",
-        description: "Sistema de gestão de fornecedores",
+        url: "https://i.ibb.co/JwMZJr0g/Mac-Book-01-1.png",
+        title: "Parte de doações",
+        description: "Interface para de doações",
       },
     ],
   },
@@ -106,17 +106,17 @@ const experiences: ExperienceItem[] = [
     skills: ["UX Design", "UI Design", "Figma", "Google UX Certificate", "Design Social", "Acessibilidade"],
     images: [
       {
-        url: "https://www.brenersilva.com.br/assets/img/Site%20ONG%20-%20Projeto%20Crian%C3%A7a%20Feliz.png",
+        url: "https://i.ibb.co/G3VJ83X2/Screenshot-18.png",
         title: "Página Inicial",
         description: "Design institucional da ONG",
       },
       {
-        url: "https://www.brenersilva.com.br/assets/img/Site%20ONG%20-%20Projeto%20Crian%C3%A7a%20Feliz%20-%20Copia.png",
+        url: "https://i.ibb.co/35ZNpDZ9/Screenshot-19.png",
         title: "Seção Projetos",
         description: "Apresentação dos projetos sociais",
       },
       {
-        url: "https://www.brenersilva.com.br/assets/img/Site%20ONG%20-%20Projeto%20Crian%C3%A7a%20Feliz%20-%20Copia%20(3).png",
+        url: "https://i.ibb.co/W4HXyPWp/Screenshot-20.png",
         title: "Página de Doações",
         description: "Interface otimizada para conversão de doações",
       },
