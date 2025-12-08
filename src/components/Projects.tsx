@@ -23,7 +23,7 @@ const projects: Project[] = [
     title: "Site para Escritório de Advocacia",
     description: "Design e desenvolvimento de site institucional para escritório de advocacia, focado em credibilidade e conversão de clientes.",
     images: [
-      "https://i.ibb.co/W4yWhPZq/case-3.png",
+      "https://i.ibb.co/Q3ZQz0Kg/Mac-Book-13-2.png",
     ],
     tags: ["UX/UI Design", "Desenvolvimento", "Institucional", "Figma"],
     link: "https://joelmaalvesadvocacia.com.br/",
