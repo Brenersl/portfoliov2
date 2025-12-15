@@ -25,7 +25,7 @@ const experiences: ExperienceItem[] = [
   {
     role: "UI Designer",
     company: "Sagitta Digital",
-    period: "ago/2025 - Atualmente",
+    period: "nov/2024 - Atualmente",
     current: true,
     description: [
       "Criação de interfaces digitais modernas e funcionais no Figma.",
