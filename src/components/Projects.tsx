@@ -30,12 +30,13 @@ const projects: Project[] = [
     useCarousel: false,
   },
   {
-    title: "Construção de site para M&C Books",
-    description: "Projeto de design e desenvolvimento de site para melhorar o atendimento da empresa M&C Books, realizado durante o curso na Escola DNC.",
+    title: "Plataforma de Streaming — Navegação de Episódios (UX/UI)",
+    description: "Case de UX/UI focado na criação de um fluxo completo para visualização de temporadas, episódios e interação do usuário em uma plataforma de streaming, com controle de spoilers e sistema de avaliação.",
     images: [
-      "https://i.ibb.co/chpftfnM/Screenshot-16.png",
+      "https://i.ibb.co/JjKrR32H/Screenshot-23.png",
     ],
-    tags: ["Design", "Desenvolvimento", "E-commerce"],
+    tags: ["UX/UI Design", "Streaming Platform", "User Flow", "Figma"],
+    link: "https://www.figma.com/design/Bgy6aPaO3E1dONtejLQ4ag/Sem-t%C3%ADtulo?node-id=0-1&t=gyaZbldb5vWWX4kT-1",
     useCarousel: false,
   },
   {
@@ -48,14 +49,13 @@ const projects: Project[] = [
     useCarousel: false,
   },
   {
-    title: "MindZen - Em Desenvolvimento",
-    description: "Projeto em desenvolvimento utilizando conhecimentos do curso de Design UX da Coursera e conhecimentos em front-end para criar um Aplicativo de Bem-Estar Mental.",
+    title: "Construção de site para M&C Books",
+    description: "Projeto de design e desenvolvimento de site para melhorar o atendimento da empresa M&C Books, realizado durante o curso na Escola DNC.",
     images: [
-      "https://www.brenersilva.com.br/assets/img/05.png",
-      "https://www.brenersilva.com.br/assets/img/06.png",
+      "https://i.ibb.co/chpftfnM/Screenshot-16.png",
     ],
-    tags: ["UX Design", "App Design", "Figma", "Saúde Mental"],
-    useCarousel: true,
+    tags: ["Design", "Desenvolvimento", "E-commerce"],
+    useCarousel: false,
   },
 ];
 
